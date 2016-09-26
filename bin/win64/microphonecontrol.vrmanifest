@@ -1,0 +1,16 @@
+{
+	"source" : "builtin",
+	"applications": [{
+		"app_key": "matzman666.MicrophoneControl",
+		"launch_type": "binary",
+		"binary_path_windows": "MicrophoneControl.exe",
+		"is_dashboard_overlay": true,
+
+		"strings": {
+			"en_us": {
+				"name": "Mic Control",
+				"description": "OpenVR Microphone Control Overlay"
+			}
+		}
+	}]
+}
