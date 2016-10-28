@@ -1,6 +1,8 @@
 
 ![language](https://img.shields.io/badge/Language-C%2B%2B11-green.svg) ![dependencies](https://img.shields.io/badge/Dependencies-OpenVR%2C%20Qt5-green.svg) ![license_gpl3](https://img.shields.io/badge/License-GPL%203.0-green.svg)
 
+** Deprecated: ** Has been merged into [OpenVR Advanced Settings](https://github.com/matzman666/OpenVR-AdvancedSettings).
+
 # OpenVR Microphone Control Overlay
 
 Adds an overlay to the OpenVR dashboard that allows to mute the microphone and implements push-to-talk.
