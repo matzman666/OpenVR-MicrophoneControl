@@ -12,7 +12,7 @@ Adds an overlay to the OpenVR dashboard that allows to mute the microphone and i
 
 Allows to mute the microphone and set the recording volume level.
 
-## - Push-to-Task:
+## - Push-to-Talk:
 
 When push-to-talk is activated, the microphone gets muted in the windows audio settings. This way push-to-talk works with every game/application. 
 The Vive controller buttons and the touchpad (which is separated into four regions: left, top, right, botton) can be configured for push-to-talk.
